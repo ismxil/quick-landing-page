@@ -1,0 +1,50 @@
+@font-face {
+  font-family: Gotham;
+  font-display: swap;
+  src: url("/assets/Gotham-Book.otf") format("opentype");
+}
+@font-face {
+  font-family: Gotham;
+  font-style: italic;
+  font-display: swap;
+  src: url("/assets/Gotham-BookItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: Gotham;
+  font-weight: bold;
+  font-display: swap;
+  src: url("/assets/Gotham-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: Gotham;
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+  src: url("/assets/Gotham-BoldItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: Gotham;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/assets/Gotham-Light.otf") format("opentype");
+}
+@font-face {
+  font-family: Gotham;
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+  src: url("/assets/Gotham-LightItalic.otf") format("opentype");
+}
+@font-face {
+  font-family: Gotham;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/assets/Gotham-Medium.otf") format("opentype");
+}
+@font-face {
+  font-family: Gotham;
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("/assets/Gotham-MediumItalic.otf") format("opentype");
+}
